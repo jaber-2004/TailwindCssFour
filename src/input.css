@@ -1,0 +1,9 @@
+@import "tailwindcss";
+
+@theme {
+  --color-bgHead: #5e3bee;
+  --font-popkon: "Poppins", sans-serif;
+  --drop-shadow-dH: 0 37px 80px rgba(0, 0, 0, 10%);
+  --drop-shadow-dHTwo: 0 4px 4px rgba(0, 0, 0, 25%);
+  --drop-shadow-dHThree: 27px 37px 80px rgba(0, 0, 0, 10%);
+}
